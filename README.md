@@ -1,4 +1,3 @@
-```markdown
 # Myainventory — Sistem Manajemen Inventaris Lab
 
 Aplikasi web untuk pengelolaan data barang inventaris lab komputer sekolah.
@@ -42,5 +41,4 @@ Akses: http://127.0.0.1:8000
 
 ## Stack
 
-Laravel 13, MySQL, Blade, Tailwind CSS v4, Vite
-```
+Laravel 13, MySQL, Blade, Tailwind CSS v4, Vite, Dbingin, TablePlus
